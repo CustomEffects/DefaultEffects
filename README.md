@@ -16,6 +16,11 @@ https://customeffects.github.io/DefaultEffects/Assets/DoorsGuidingLight.png
 <summary>Smile</summary>
 
 ```
+https://customeffects.github.io/DefaultEffects/Assets/Assets/Smile.gif
+```
+![](Assets/Smile.gif)
+
+```
 https://customeffects.github.io/DefaultEffects/Assets/Assets/Smile.png
 ```
 ![](Assets/Smile.png)
