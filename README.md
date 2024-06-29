@@ -4,7 +4,7 @@ Custom profile effects marked as default profile effects<br>Down below you can f
 <summary>Available Effects</summary>
 
 <details>
-<summary>Doors Guiding Light</summary>
+<summary>Doors Guiding Light (click here to expand)</summary>
 
 ```
 https://customeffects.github.io/DefaultEffects/Assets/DoorsGuidingLight.png
@@ -13,7 +13,7 @@ https://customeffects.github.io/DefaultEffects/Assets/DoorsGuidingLight.png
 </details>
 
 <details>
-<summary>Smile</summary>
+<summary>Smile (click here to expand)</summary>
 
 ```
 https://customeffects.github.io/DefaultEffects/Assets/Assets/Smile.gif
